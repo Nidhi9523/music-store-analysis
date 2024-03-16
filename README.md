@@ -1,4 +1,3 @@
 # music-store-analysis
 <br>
-Analyze music playlist,
- Understand business growth
+Data Analysis for Digital Music Store using SQL
